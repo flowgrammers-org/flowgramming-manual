@@ -12,9 +12,13 @@ This site serves as an user manual on how to use the Flowgramming web applicatio
 
 CORE Lab, Amrita Vishwa Vidyapeetham, Coimbatore.
 
+# Mentor(s)
+- [Ritwik M](https://www.amrita.edu/faculty/m-ritwik)
+
 # Contributors
+- [Harshit Agarwal](https://www.linkedin.com/in/harshitagarwal1907/)
 - [Rajkumar S](https://rajkumaar.co.in)
-- [Sanjana G](https://github.com/sanjana2610)
+- [Sanjana G](https://www.linkedin.com/in/sanjana-gali-06a100166/)
 - [Pranesh S](https://github.com/pranesh-sp)
 - [Adithi Narayan](https://github.com/Tvashta)
 - [Ganapathi](https://github.com/ganapathi12)
