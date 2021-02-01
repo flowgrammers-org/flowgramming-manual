@@ -22,4 +22,4 @@ CORE Lab, Amrita Vishwa Vidyapeetham, Coimbatore.
 - [Pranesh S](https://github.com/pranesh-sp)
 - [Adithi Narayan](https://github.com/Tvashta)
 - [Ganapathi](https://github.com/ganapathi12)
-
+- [Vishvakar S](https://github.com/Vish-10)
