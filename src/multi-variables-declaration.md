@@ -5,7 +5,7 @@ in the same block, you need to use comma(`,`) to separate the variable names.
 
 For example, declaring `a,b,c` of type `integer` will look like this.
 
-<img src="images/multi-var-declaration-1.PNG" width="200" />
+<img src="images/multi-var-declaration-1.png" width="200" />
 
 And the flowgram will look like :
 

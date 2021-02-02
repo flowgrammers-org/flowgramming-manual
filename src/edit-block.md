@@ -9,7 +9,7 @@ You will get a pop-up to edit the properties of the block, depending on its type
 For instance, if you double-click on a declaration block, you would see fields to enter the 
 variable name, its type, and length if it is an array.
 
-<img src="images/edit-block-2.PNG" width="250" />
+<img src="images/edit-block-2.png" width="250" />
 
 After entering the values, when you press **OK**, you will see the block updated
 with its properties on the flowgram.
