@@ -5,3 +5,5 @@
 - [Editing a block](edit-block.md)
 - [Declaring multiple variables](multi-variables-declaration.md)
 - [Deleting a block](delete-block.md)
+- [Data types](data-types.md)
+- [String functions](string-functions.md)
