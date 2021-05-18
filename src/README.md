@@ -14,15 +14,15 @@ This site serves as an user manual on how to use the Flowgramming web applicatio
 **Features**
 
 1. Easy and intuitive to understand and use
-2. Platform Independent
+2. Platform independent
 3. Programming logic support (Condition,Loops,etc.)
 4. Chat based input and output window
 5. Arrays (1D and 2D)
 6. Flexible expressions and all data types (including strings) supported
 7. Dedicated variable watch window to see all variable changes
-8. Specialized String Functions
-9. Function watch window allows custom definition of multiple functions
-10. Can Save and load all developed flowgrams (saved with extension ".fgmin")
+8. Specialized string Functions
+9. Function manager allows custom definition of multiple functions
+10. Can save and load all developed flowgrams (saved with extension ".fgmin")
 
 
 
