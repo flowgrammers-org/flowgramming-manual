@@ -1,3 +1,3 @@
-# User Manual for [Flowgramming](https://github.com/Amrita-CORE-Lab/flowgramming)
+# User Manual for [Flowgramming](https://github.com/flowgrammers-org/flowgramming)
 
-[![Build Status](https://travis-ci.com/Amrita-CORE-Lab/flowgramming-manual.svg?branch=master)](https://travis-ci.com/Amrita-CORE-Lab/flowgramming-manual)
+[![Build Status](https://travis-ci.com/flowgrammers-org/flowgramming-manual.svg?branch=master)](https://travis-ci.com/flowgrammers-org/flowgramming-manual)
