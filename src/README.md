@@ -24,13 +24,6 @@ This site serves as an user manual on how to use the Flowgramming web applicatio
 9. Function manager allows custom definition of multiple functions
 10. Can save and load all developed flowgrams (saved with extension ".fgmin")
 
-
-
-# Maintained by
-<img src="images/corelab-logo.jpg" alt="CORE Lab Logo" title="CORE Lab Logo" width="150" />
-
-CORE Lab, Amrita Vishwa Vidyapeetham, Coimbatore.
-
 # Mentor
 - [Ritwik M](https://www.amrita.edu/faculty/m-ritwik)
 
