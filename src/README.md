@@ -24,6 +24,9 @@ This site serves as an user manual on how to use the Flowgramming web applicatio
 9. Function manager allows custom definition of multiple functions
 10. Can save and load all developed flowgrams (saved with extension ".fgmin")
 
+# Contact
+flowgramming@googlegroups.com
+
 # Mentor
 - [Ritwik M](https://www.amrita.edu/faculty/m-ritwik)
 
