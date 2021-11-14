@@ -7,3 +7,5 @@
 - [Deleting a block](delete-block.md)
 - [Data types](data-types.md)
 - [String functions](string-functions.md)
+- [Math functions](math-functions.md)
+- [Functions](functions.md)
