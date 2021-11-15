@@ -4,35 +4,28 @@
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
         <title>User Manual | Flowgramming</title>
-                <meta name="robots" content="noindex" />
-                
-
+        <meta name="robots" content="noindex" />
         <!-- Custom HTML head -->
-        
-
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
 
-                        <link rel="shortcut icon" href="favicon.png">
-                <link rel="stylesheet" href="css/variables.css">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
         <link rel="stylesheet" href="css/chrome.css">
-                <link rel="stylesheet" href="css/print.css" media="print">
-        
+        <link rel="stylesheet" href="css/print.css" media="print">
         <!-- Fonts -->
         <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
-                <link rel="stylesheet" href="fonts/fonts.css">
-        
+        <link rel="stylesheet" href="fonts/fonts.css">
         <!-- Highlight.js Stylesheets -->
         <link rel="stylesheet" href="highlight.css">
         <link rel="stylesheet" href="tomorrow-night.css">
         <link rel="stylesheet" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
-        
-            </head>
+    </head>
     <body>
         <!-- Provide site root to javascript -->
         <script type="text/javascript">
@@ -82,14 +75,14 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Flowgramming</a></li><li class="chapter-item expanded "><a href="add-block.html"><strong aria-hidden="true">2.</strong> Creating a block</a></li><li class="chapter-item expanded "><a href="edit-block.html"><strong aria-hidden="true">3.</strong> Editing a block</a></li><li class="chapter-item expanded "><a href="multi-variables-declaration.html"><strong aria-hidden="true">4.</strong> Declaring multiple variables</a></li><li class="chapter-item expanded "><a href="delete-block.html"><strong aria-hidden="true">5.</strong> Deleting a block</a></li><li class="chapter-item expanded "><a href="data-types.html"><strong aria-hidden="true">6.</strong> Data types</a></li><li class="chapter-item expanded "><a href="string-functions.html"><strong aria-hidden="true">7.</strong> String functions</a></li></ol>            </div>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Flowgramming</a></li><li class="chapter-item expanded "><a href="add-block.html"><strong aria-hidden="true">2.</strong> Creating a block</a></li><li class="chapter-item expanded "><a href="edit-block.html"><strong aria-hidden="true">3.</strong> Editing a block</a></li><li class="chapter-item expanded "><a href="multi-variables-declaration.html"><strong aria-hidden="true">4.</strong> Declaring multiple variables</a></li><li class="chapter-item expanded "><a href="delete-block.html"><strong aria-hidden="true">5.</strong> Deleting a block</a></li><li class="chapter-item expanded "><a href="data-types.html"><strong aria-hidden="true">6.</strong> Data types</a></li><li class="chapter-item expanded "><a href="string-functions.html"><strong aria-hidden="true">7.</strong> String functions</a></li><li class="chapter-item expanded "><a href="math-functions.html"><strong aria-hidden="true">8.</strong> Math functions</a></li><li class="chapter-item expanded "><a href="functions.html"><strong aria-hidden="true">9.</strong> Functions</a></li></ol>
+            </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
 
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
-                
                 <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky bordered">
                     <div class="left-buttons">
@@ -106,22 +99,21 @@
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
-                                            </div>
+                    </div>
 
                     <h1 class="menu-title">User Manual | Flowgramming</h1>
 
                     <div class="right-buttons">
-                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
-                                                                        
                     </div>
                 </div>
 
-                                <div id="search-wrapper" class="hidden">
+                <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
                         <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
                     </form>
@@ -131,7 +123,6 @@
                         </ul>
                     </div>
                 </div>
-                
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
                 <script type="text/javascript">
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
@@ -346,47 +337,265 @@ checkbox as shown in the picture, and choose the appropriate dimensions.</p>
 </ul>
 </li>
 </ol>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="in-built-string-functions-1"><a class="header" href="#in-built-string-functions-1">In-built string functions</a></h1>
+<ol>
+<li>
+<p><strong>Absolute</strong></p>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = abs(y)</code></p>
+<img src="images/absolute.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Power</strong></p>
+<ul>
+<li>
+<p>Declare integers x,y and z</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>z = pow(x,y)</code></p>
+<img src="images/power.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Square Root</strong></p>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = sqrt(y)</code></p>
+<img src="images/square-root.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Signum</strong></p>
+<ul>
+<li>Declare integers x, y</li>
+<li>Take input for x, y</li>
+<li>Choose assignment block and write the code <code>x = sgn(y)</code></li>
+</ul>
+<img src="images/signum.png" width="200" />
+</li>
+<li>
+<p><strong>Natural Log</strong></p>
+<ul>
+<li>Declare integers x, y</li>
+<li>Take input for x, y</li>
+<li>Choose assignment block and write the code <code>x = ln(y)</code></li>
+</ul>
+<img src="images/natural-log.png" width="200" />
+</li>
+<li>
+<p><strong>Log</strong></p>
+<ul>
+<li>
+<p>Declare integers x,y and z</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>z = log(x,y)</code></p>
+<img src="images/log.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Sin</strong></p>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = sin(y)</code></p>
+<img src="images/sin.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Cos</strong></p>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = cos(y)</code></p>
+<img src="images/cos.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Tan</strong></p>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = tan(y)</code></p>
+<img src="images/tan.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Arcsin</strong></p>
+</li>
+</ol>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = arcsin(y)</code></p>
+<img src="images/arcsin.png" width="200" />
+</li>
+</ul>
+<ol start="11">
+<li><strong>Arccos</strong></li>
+</ol>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = arccos(y)</code></p>
+<img src="images/arccos.png" width="200" />
+</li>
+</ul>
+<ol start="12">
+<li><strong>Arctan</strong></li>
+</ol>
+<ul>
+<li>
+<p>Declare integers x, y</p>
+</li>
+<li>
+<p>Take input for x, y</p>
+</li>
+<li>
+<p>Choose assignment block and write the code <code>x = arctan(y)</code></p>
+<img src="images/arctan.png" width="200" /></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="user-defined-functions"><a class="header" href="#user-defined-functions">User Defined Functions</a></h1>
+<pre><code>User defined functions need to be called only inside a Function block. 
+</code></pre>
+<ol>
+<li>
+<p><strong>Manually Adding a Function</strong></p>
+<ul>
+<li>
+<p>Enter the name for the function.</p>
+</li>
+<li>
+<p>Add multiple parameters by entering the variable name and variable type.</p>
+</li>
+<li>
+<p>Enter the return variable and the variable type.</p>
+</li>
+<li>
+<p>Save the function and continue.</p>
+<img src="images/create_function.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Uploading a Function</strong></p>
+<ul>
+<li>Click the upload button to upload a pre-existing function.</li>
+</ul>
+<img src="images/upload_function.png" width="200" />
+</li>
+<li>
+<p><strong>Updating a Function</strong></p>
+<ul>
+<li>
+<p>To update an existing function, click the edit button in the function manager.</p>
+</li>
+<li>
+<p>Update the different parameters.</p>
+</li>
+<li>
+<p>Save the function and continue.</p>
+<img src="images/edit_function.png" width="200" />
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Downloading a Function</strong></p>
+<ul>
+<li>Click the download button to download the function.</li>
+</ul>
+<img src="images/download_function.png" width="200" />
+</li>
+<li>
+<p><strong>Deleting a Function</strong></p>
+<ul>
+<li>Click the delete button to delete an existing function.</li>
+</ul>
+<img src="images/delete_function.png" width="200" />
+</li>
+</ol>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                        
-                        
                         <div style="clear: both"></div>
                     </nav>
                 </div>
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                
-                            </nav>
+            </nav>
 
         </div>
 
-        
-        
-        
-                <script type="text/javascript">
+        <script type="text/javascript">
             window.playground_copyable = true;
         </script>
-        
-        
-                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
-        
         <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
         <script src="book.js" type="text/javascript" charset="utf-8"></script>
 
         <!-- Custom JS scripts -->
-        
-                        <script type="text/javascript">
+        <script type="text/javascript">
         window.addEventListener('load', function() {
             window.setTimeout(window.print, 100);
         });
         </script>
-                
     </body>
 </html>
