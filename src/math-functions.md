@@ -84,3 +84,27 @@
    - Choose assignment block and write the code `x = arctan(y)`
      
      <img src="images/arctan.png" width="200" />
+
+13. **Ceil**
+   - Declare integer x, float y
+   - Take input for x, y  
+   - Choose assignment block and write the code `x = ceil(y)`
+     
+     <img src="images/ceil.png" width="200" />
+
+14. **Floor**
+   - Declare integers x, float y
+   - Take input for x, y  
+   - Choose assignment block and write the code `x = floor(y)`
+     
+     <img src="images/floor.png" width="200" />
+
+15. **Round**
+   - Declare integers x, float y
+   - Take input for x, y  
+   - Choose assignment block and write the code `x = round(y)`
+     
+     <img src="images/round2.png" width="200" />
+   - Second parameter denotes number of digits after floating point
+     
+     <img src="images/round1.png" width="200" />
