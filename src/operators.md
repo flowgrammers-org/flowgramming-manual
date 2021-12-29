@@ -8,7 +8,7 @@ Flowgramming supports different math operations such as '+', '-', '*', '/', '%'
     - Assign a value to x and y
     - Assign z = x+y
     - z contains the sum of x and y
-    <img src="images/addition.png" width="200" />
+    <img src="images/addition.png"/>
 
 2. The '-' operator
     - The '-' operator is used to perform the subtraction operation.
@@ -16,7 +16,7 @@ Flowgramming supports different math operations such as '+', '-', '*', '/', '%'
     - Assign a value to x and y
     - Assign z = x-y
     - z contains the difference of x and y
-    <img src="images/subtraction.png" width="200" />
+    <img src="images/subtraction.png"/>
 
 3. The '*' operator
     - The '*' operator is used to perform the multiplication operation.
@@ -24,7 +24,7 @@ Flowgramming supports different math operations such as '+', '-', '*', '/', '%'
     - Assign a value to x and y
     - Assign z = x*y
     - z contains the product of x and y
-    <img src="images/multiplication.png" width="200" />
+    <img src="images/multiplication.png"/>
 
 4. The '/' operator
     - The '/' operator is used to perform the division operation.
@@ -32,7 +32,7 @@ Flowgramming supports different math operations such as '+', '-', '*', '/', '%'
     - Assign a value to x and y
     - Assign z = x+y
     - z contains the quotient of x/y
-    <img src="images/division.png" width="200" /> 
+    <img src="images/division.png"/> 
 
 5. The '%' operator
     - The '%' operator is used to perform the modulus operation.
@@ -40,5 +40,5 @@ Flowgramming supports different math operations such as '+', '-', '*', '/', '%'
     - Assign a value to x and y
     - Assign z = x%y
     - z contains the remainder of x/y
-    <img src="images/modulus.png" width="200" />
+    <img src="images/modulus.png"/>
 
