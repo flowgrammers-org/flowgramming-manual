@@ -7,27 +7,27 @@
    - Enter the return variable and the variable type.
    - Save the function and continue.
      
-     <img src="images/create_function.png" width="200" />
+     <img src="images/create_function.png"/>
 
 2. **Uploading a Function**
     - Click the upload button to upload a pre-existing function.
     
-    <img src="images/upload_function.png" width="200" />
+    <img src="images/upload_function.png"/>
     
 3. **Updating a Function**
    - To update an existing function, click the edit button in the function manager.
    - Update the different parameters.
    - Save the function and continue.
      
-     <img src="images/edit_function.png" width="200" />
+     <img src="images/edit_function.png"/>
 
 4. **Downloading a Function**
     - Click the download button to download the function.
       
-    <img src="images/download_function.png" width="200" />
+    <img src="images/download_function.png"/>
      
 5. **Deleting a Function**
     - Click the delete button to delete an existing function.
       
-    <img src="images/delete_function.png" width="200" />
+    <img src="images/delete_function.png"/>
 
