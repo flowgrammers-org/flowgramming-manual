@@ -8,5 +8,8 @@
 - [Data types](data-types.md)
 - [String functions](string-functions.md)
 - [Math functions](math-functions.md)
+- [Operators](operators.md)
 - [Functions](functions.md)
 - [Keywords](keywords.md)
+- [Upload and Download](upload-download.md)
+- [Examples](examples.md)
