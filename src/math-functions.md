@@ -111,7 +111,7 @@
 
 16. **Random**
    - Declare integers x, y
-   - Take input for x, y  
+   - Take input or assign value for y  
    - Choose assignment block and write the code `x = random(y)`
      
      <img src="images/random.png" width="200" />
