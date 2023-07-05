@@ -108,3 +108,11 @@
    - Second parameter denotes number of digits after floating point
      
      <img src="images/round1.png" width="200" />
+
+15. **Random**
+   - Declare integers x, y
+   - Take input or assign value for y  
+   - Choose assignment block and write the code `x = random(y)`
+     
+    <img src="images/random.png" width="200" />
+   
