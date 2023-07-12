@@ -41,3 +41,7 @@
 ## 12. String Functions
 <img src="images/toUpper.png" />
 <img src="images/substr.png" />
+
+## 13. Pass and return 1D Array from Function
+<img src="images/pass-return-array-main.png"/>
+<img src="images/pass-return-array-fn.png"/>
